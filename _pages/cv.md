@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Newcastle University (UK), 2020-2024(expected)
-* Msc in Computer Science, Newcastle University (UK), 2017-2018
+* Msc in Computer Science (First Class, Distinction), Newcastle University (UK), 2017-2018
 * B.S. in Electronic Information Engineering, Shenyang Aerospace University, 2012-2016
 
 
