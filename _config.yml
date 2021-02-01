@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rui Sun"
+title                    : "Personal Home Page"
 title_separator          : "-"
 name                     : &name "Rui Sun"
 description              : &description "personal description"
