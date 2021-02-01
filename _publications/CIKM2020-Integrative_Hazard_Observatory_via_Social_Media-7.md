@@ -2,7 +2,6 @@
 title: "Active Hazard Observation via Human in the Loop Social Media Analytics System"
 collection: publications
 permalink: /publication/CIKM2020-Integrative_Hazard_Observatory_via_Social_Media-7
-excerpt: 'We demonstrate AHOM, a system that can Actively Observe Hazards via Monitoring Social Media Streams. AHOM proposes an active way to include the human in the loop of hazard information ac-quisition for social media. Different from state of the art, it supports bi-directional interaction between social media data processing system and social media users, which leads to the establishment of deeper and more accurate situational awareness of hazard events. We demonstrate how AHOM utilizes Twitter streams and bi-directional information exchange with social media users for enhanced hazard observation.'
 date: 2020-10-19
 
 paperurl: 'https://rui-sun.com/files/publications/CIKM2020-Integrative_Hazard_Observatory_via_Social_Media-7.pdf'
