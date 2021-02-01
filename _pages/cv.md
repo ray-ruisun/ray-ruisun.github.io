@@ -21,17 +21,17 @@ Work experience
 ======
 
 * 2019.04-2020.08: Software Engineer
-  * Shanghai Electric co.,Ltd.
+  * Shanghai Electric co.,Ltd. (Shanghai, China)
 
 * 2018.10-2019.02: Research Assistant
   * Newcastle University (UK)
   * Supervisor: Prof. Rajiv Ranjan
 
 * 2016.11-2017.05: Full Stack Software Engineer
-  * Nova Technology
+  * NOVA Technology co.,Ltd. (Shenzhen, China)
 
 * 2015.11 - 2016.07: Network Engineer (Intern)
-  * BMW Brilliance Automotive
+  * BMW Brilliance Automotive (Shenyang, China)
 
 Publications
 ======
