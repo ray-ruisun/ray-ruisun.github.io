@@ -3,7 +3,7 @@ title: "An ontology‐based system for discovering landslide‐induced emergenci
 collection: publications
 permalink: /publication/ETT2020-ett-3899
 date: 2020-03-04
-
+venue:'Wiley Transactions on Emerging Telecommunications Technologies (ETT).'
 paperurl: 'https://rui-sun.com/files/publications/ETT2020-ett.3899.pdf'
 citation: 'J. Phengsuwan, T. Shah, R. Sun, P. James, D. Thakker, and R. Ranjan, "An ontology‐based system for discovering landslide‐induced emergencies in electrical grid," Wiley Transactions on Emerging Telecommunications Technologies (ETT). 2020.'
 ---
