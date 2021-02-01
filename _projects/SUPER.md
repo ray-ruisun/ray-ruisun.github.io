@@ -2,9 +2,11 @@
 title: "SUPER project"
 collection: projects
 permalink: /projects/super
+type: "Doctoral Research Project"
 venue: "Engineering and Physical Sciences Research Council (EPSRC)"
 date: 2020-09-28
 location: "UK"
+excerpt: 'Sustainable urban power supply through intelligent control and enhanced restoration of AC/DC networks'
 ---
 
 Description
