@@ -28,7 +28,7 @@ holistic integration with EV-Edge-Cloud data management framework, the PI and Co
 
 ---
 
-Project Members
+Consortium
 ====
 
 ## Academic partners

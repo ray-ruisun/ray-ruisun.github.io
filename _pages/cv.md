@@ -16,7 +16,6 @@ Education
 * B.S. in Electronic Information Engineering, Shenyang Aerospace University, 2012-2016
 
 
-
 Work experience
 ======
 
