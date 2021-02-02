@@ -117,7 +117,12 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
+
+<!--      Extra added-->
+      {% if author.jianshu %}
+      <li><a href="https://www.jianshu.com/u/{{ author.foursquare }}"><i class="fab fa-fw fa-jianshu" aria-hidden="true"></i> Jianshu</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
