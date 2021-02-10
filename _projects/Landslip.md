@@ -6,7 +6,7 @@ type: "Doctoral Research Project"
 venue: "Engineering and Physical Sciences Research Council (EPSRC)"
 date: 2018-06-01
 location: "UK"
-excerpt: 'Landslide Multi-Hazard Risk Assessment, Preparedness and Early Warning in South Asia: Integrating Meteorology,
+excerpt: '<B>Abstract: </B>Landslide Multi-Hazard Risk Assessment, Preparedness and Early Warning in South Asia: Integrating Meteorology,
 Landscape, and Society, Science for Humanitarian Emergencies and Resilience'
 ---
 

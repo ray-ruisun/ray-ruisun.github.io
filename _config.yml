@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Rui Sun"
   avatar           : "profile_photo.jpeg"
-  bio              : "Ph.D Candidate at Computing School, Newcastle University (UK)."
-  location         : "Newcastle upon Tyne, UK"
+  bio              : "Ph.D student at Computing School, Newcastle University 🇬🇧."
+  location         : "Newcastle upon Tyne, UK 🇬🇧"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=Ro5hcxoAAAAJ"
-  email            :
+  email            : "ray.ruisun@qq.com"
   researchgate     : "https://www.researchgate.net/profile/Rui_Sun105/research" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

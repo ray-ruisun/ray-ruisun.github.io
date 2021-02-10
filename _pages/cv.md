@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Newcastle University (UK), 2020-2024(expected)
-* Msc in Computer Science (First Class, Distinction), Newcastle University (UK), 2017-2018
-* B.S. in Electronic Information Engineering, Shenyang Aerospace University, 2012-2016
+* Ph.D in Computer Science, Newcastle University 🇬🇧, 2020-2024(expected)
+* Msc in Computer Science (First Class, Distinction), Newcastle University 🇬🇧, 2017-2018
+* B.S. in Electronic Information Engineering, Shenyang Aerospace University 🇨🇳, 2012-2016
 
 
 Work experience
 ======
 
 * 2019.04-2020.08: Software Engineer
-  * Shanghai Electric co.,Ltd. (Shanghai, China)
+  * Shanghai Electric co.,Ltd. (Shanghai, China🇨🇳)
 
 * 2018.10-2019.02: Research Assistant
-  * Newcastle University (UK)
+  * Newcastle University 🇬🇧
   * Supervisor: Prof. Rajiv Ranjan
 
 * 2016.11-2017.05: Full Stack Software Engineer
