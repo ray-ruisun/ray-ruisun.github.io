@@ -27,10 +27,10 @@ Work experience
   * Supervisor: [Prof. Rajiv Ranjan](rajivranjan.net)
 
 * 2016.11-2017.05: Full Stack Software Engineer
-  * NOVA Technology co.,Ltd. (Shenzhen, China)
+  * NOVA Technology co.,Ltd. (Shenzhen, China 🇨🇳)
 
 * 2015.11 - 2016.07: Network Engineer (Intern)
-  * BMW Brilliance Automotive (Shenyang, China)
+  * BMW Brilliance Automotive (Shenyang, China 🇨🇳)
 
 Publications
 ======
