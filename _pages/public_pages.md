@@ -8,3 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Call For Paper
+======
+- [International Conferences Call For Paper](https://rui-sun.com/call_for_paper/conferences.html)
