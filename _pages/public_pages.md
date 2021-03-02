@@ -9,4 +9,4 @@ redirect_from:
 
 Call For Paper
 ======
-- [International Conferences Call For Paper](https://rui-sun.com/call_for_paper/conferences.html)
+- [International Conferences Call For Paper List](https://rui-sun.com/call_for_paper/conferences.html)
