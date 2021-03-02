@@ -9,15 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
+
 * Ph.D in Computer Science, Newcastle University 🇬🇧, 2020-2024(expected)
 * Msc in Computer Science (First Class, Distinction), Newcastle University 🇬🇧, 2017-2018
 * B.S. in Electronic Information Engineering, Shenyang Aerospace University 🇨🇳, 2012-2016
 
 
-Work experience
-======
+# Work experience
 
 * 2019.04-2020.08: Software Engineer
   * Shanghai Electric co.,Ltd. (Shanghai, China 🇨🇳)
@@ -32,20 +31,20 @@ Work experience
 * 2015.11 - 2016.07: Network Engineer (Intern)
   * BMW Brilliance Automotive (Shenyang, China 🇨🇳)
 
-Publications
-======
+# Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Projects
-======
+# Projects
+
   <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Certifications
-======
+# Certifications
+
 2016.06 : Red Hat Certified Engineer (RHCE)
 
 2016.06 : Red Hat Certified System Administrator (RHCSA)
@@ -56,8 +55,8 @@ Certifications
 
 2015.01 : Oracle Certified Professional, Java SE 6 Programmer [[Online Certificate](https://www.youracclaim.com/badges/97bb57f6-f225-4e9e-9af2-03042a22b07b/linked_in_profile)]
 
-Talks
-======
+# Talks
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
