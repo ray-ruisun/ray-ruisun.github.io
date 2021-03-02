@@ -9,6 +9,6 @@ redirect_from:
 
 # Call For Paper
 
-- [International Conferences Call For Paper List](https://rui-sun.com/call_for_paper/conferences.html)
+- [International Conferences Call For Paper List](https://rui-sun.com/call_for_paper_conferences/conferences.html)
 
-- [International Journals Call For Paper List](https://rui-sun.com/call_for_paper/journals.html)
+- [International Journals Call For Paper List](https://rui-sun.com/call_for_paper_journals/journals.html)
