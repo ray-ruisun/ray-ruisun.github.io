@@ -25,7 +25,6 @@ Data Mining, Multi-modality Learning, Graph Convolutional Network, IoT, Edge-Clo
 
 ---
 
----
 Professional Activities
 ======
 peer-reviewer for MDPI(Multidisciplinary Digital Publishing Institute)
