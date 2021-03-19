@@ -21,11 +21,15 @@ and Bachelor of Engineering degree from Shenyang Aerospace University 🇨🇳 i
 
 Research Interests
 ======
-Data Mining, Multi-modality Learning, Graph Convolutional Network, IoT, Edge-Cloud Computing, Ontology
+Federated Learning, Distributed System, 
+Data Mining, Multi-modality Learning, 
+Graph Convolutional Network, IoT, 
+Edge-Cloud Computing, Ontology
 
 ---
 
 Professional Activities
 ======
 Peer-reviewer for MDPI(Multidisciplinary Digital Publishing Institute)
+
 ---
