@@ -21,10 +21,11 @@ and Bachelor of Engineering degree from Shenyang Aerospace University 🇨🇳 i
 
 Research Interests
 ======
-Federated Learning, Distributed System, 
-Data Mining, Multi-modality Learning, 
-Graph Convolutional Network, IoT, 
-Edge-Cloud Computing, Ontology
+Federated Learning, Distributed System, <br/>
+Data Mining, Multi-modality Learning, <br/>
+Graph Convolutional Network, IoT, <br/>
+Edge Computing, Ontology, <br/>
+Electric Vehicle, Smart Grid
 
 ---
 
