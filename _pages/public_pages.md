@@ -15,4 +15,4 @@ redirect_from:
 
 # Reading List
 ## Electric Vehicle
-- [EVs Research](https://airesearch.world/reading_list_ev_research/README.md)
+- [EVs Research](https://airesearch.world/reading_list_ev_research/)
