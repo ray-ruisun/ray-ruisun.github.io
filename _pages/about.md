@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D Student at School of Computing, Newcastle University 🇬🇧.
-under the supervision of [Prof. Rajiv Ranjan](rajivranjan.net).
+Under the supervision of [Prof. Rajiv Ranjan](https://rajivranjan.net/).
 
 I was awarded the Master of Science degree 
 (with distinction, first class) from School of Computing, Newcastle University 🇬🇧 in 2018 
@@ -31,7 +31,7 @@ Electric Vehicle, Smart Grid
 
 Professional Activities
 ======
-- Peer-reviewer for MDPI(Multidisciplinary Digital Publishing Institute)
-- Reviewer for 2021 IEEE Internatonal Conference on Cloud Computing (IEEE CLOUD 2021)
+- Peer-reviewer for MDPI(Multidisciplinary Digital Publishing Institute).
+- Reviewer for 2021 IEEE Internatonal Conference on Cloud Computing(IEEE CLOUD).
 
 ---
