@@ -37,7 +37,7 @@ menu__settings:
 author:
   author__name: Rui Sun
   author__bio: Hi, I'm a PhD student at Newcastle University (UK) supervised by Prof. Rajiv Ranjan. Also, I have three years of experience working in industry.
-  author__avatar: '/images/my_photo.jepg'
+  author__avatar: '/images/my_photo.jpeg'
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://facebook.com"}
