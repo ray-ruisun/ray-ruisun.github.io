@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d9ad323-8e4b-466d-a101-4ba0e6e3a8b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2022-04-24-remember-that-happiness-is-a-way-of-travel-not-a-destination.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/posts/2022-04-24-remember-that-happiness-is-a-way-of-travel-not-a-destination.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-05-29-everything-has-beauty-but-not-everyone-can-see.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/posts/2022-05-29-everything-has-beauty-but-not-everyone-can-see.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-10-08-life-shrinks-or-expands-in-proportion-to-one’s-courage.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/posts/2022-10-08-life-shrinks-or-expands-in-proportion-to-one’s-courage.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-10-09-a-journey-of-a-thousand-leagues-begins-beneath-one’s-feet.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/posts/2022-10-09-a-journey-of-a-thousand-leagues-begins-beneath-one’s-feet.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-10-10-strive-not-to-be-a-success-but-rather-to-be-of-value.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/posts/2022-10-10-strive-not-to-be-a-success-but-rather-to-be-of-value.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-10-11-if-you-cannot-do-great-things-do-small-things-in-a-great-way.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/posts/2022-10-11-if-you-cannot-do-great-things-do-small-things-in-a-great-way.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-10-12-do-what-you-can-with-what-you-have-where-you-are.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/posts/2022-10-12-do-what-you-can-with-what-you-have-where-you-are.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-10-14-that-which-does-not-kill-us-makes-us-stronger.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/posts/2022-10-14-that-which-does-not-kill-us-makes-us-stronger.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +60,7 @@
       <workItem from="1678718951753" duration="1421000" />
       <workItem from="1678720426187" duration="6247000" />
       <workItem from="1680553577760" duration="774000" />
+      <workItem from="1682676876763" duration="882000" />
     </task>
     <servers />
   </component>
