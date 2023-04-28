@@ -15,11 +15,11 @@ permalink: /contact/
   <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
   <!-- Calendly inline widget end -->
 
-  <div class="contact-head">
-    {% if site.data.settings.contact.description %}
-    <p class="contact-description">{{site.data.settings.contact.description}}</p>
-    {% endif %}
-  </div>
+
+  {% if site.data.settings.contact.description %}
+  <p class="contact-description">{{site.data.settings.contact.description}}</p>
+  {% endif %}
+
   <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-name">Your Name</label>
