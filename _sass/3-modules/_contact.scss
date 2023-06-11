@@ -9,6 +9,7 @@
 
 .contact-head {
   margin-bottom: 32px;
+
 }
 
 .form__group {
@@ -42,14 +43,9 @@
   }
 }
 
-//.input-wrapper {
-//  position: relative;
-//  display: inline-block;
-//}
-
 .contact-description {
-  position: absolute;
-  top: -10px;
-  left: 10px;
-  background-color: #fff; /* 防止标题被输入框覆盖，可以根据你的背景色进行调整 */
+  width: 100%;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
 }
