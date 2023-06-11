@@ -14,6 +14,10 @@
 
 .form__group {
   margin-bottom: 20px;
+  
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
 
   &:last-child {
     margin-bottom: 0;
@@ -33,6 +37,8 @@
   color: var(--heading-font-color);
   background-color: var(--background-color);
 
+
+
   &::placeholder {
     color: var(--text-alt-color);
   }
@@ -45,6 +51,7 @@
 
 .contact-description {
   width: 100%;
+  left: -10px;
   max-width: 500px;
   margin-left: auto;
   margin-right: auto;
