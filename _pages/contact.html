@@ -25,6 +25,8 @@ permalink: /contact/
     {% endif %}
   </div>
 
+  <label for="form-email" class="form__label">Your Email</label>
+
   <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST" style="width: 100%; max-width: 500px; margin-left: auto; margin-right: auto;">
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-name">Your Name</label>
