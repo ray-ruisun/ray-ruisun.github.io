@@ -25,18 +25,18 @@ permalink: /contact/
     {% endif %}
   </div>
 
-  <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">
+  <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST" style="width: 100%; max-width: 500px; margin-left: auto; margin-right: auto;">
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-name">Your Name</label>
-      <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required style="width: 100%; max-width: 500px;">
+      <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required >
     </div>
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-email">Your Email</label>
-      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email" required style="width: 100%; max-width: 500px;">
+      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email" required >
     </div>
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-text">Your Message</label>
-      <textarea class="form__input" id="form-text" name="text" rows="7" placeholder="Message" required style="width: 100%; max-width: 500px;"></textarea>
+      <textarea class="form__input" id="form-text" name="text" rows="7" placeholder="Message" required ></textarea>
     </div>
     <div class="form__group">
       <button class="button button--primary" type="submit">Send Message</button>
